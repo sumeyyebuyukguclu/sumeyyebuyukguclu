@@ -24,3 +24,4 @@
 <h3 align="left">Languages</h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumeyyebuyukguclu"/>
+
