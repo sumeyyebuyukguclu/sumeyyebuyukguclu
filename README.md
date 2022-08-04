@@ -7,7 +7,7 @@
 
 
 ```diff
-- text in red
+- i am
 + text in green
 ! text in orange
 # text in gray
