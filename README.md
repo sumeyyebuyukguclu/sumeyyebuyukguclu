@@ -6,13 +6,6 @@
 - 📫 How to reach me: sumeyyebuyukguclu13@gmail.com
 
 
-```diff
-- i am
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 
 [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%BCmeyye-b%C3%BCy%C3%BCkg%C3%BC%C3%A7l%C3%BC-12b915238/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sbuyukgu)
@@ -24,11 +17,17 @@ https://github-readme-stats.vercel.app/api?sumeyyebuyukguclu={sumeyyebuyukguclu}
 
 
 
-<h1 align="center">Hi there, I'm Sümeyye Büyükgüçlü 👋</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sümeyye Büyükgüçlü</h1>
+- 🔭 I’m currently working on **C**
+
+- 🌱 I’m currently learning **HTML,CSS**
+
+- 📫 How to reach me **sumeyyebuyukguclu13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/sbuyukgu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sbuyukgu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sümeyye büyükgüçlü" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sümeyye büyükgüçlü" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
