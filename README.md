@@ -18,5 +18,5 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sbuyukgu)
 
 
-https://github-readme-stats.vercel.app/api?username={sumeyyebuyukguclu}
+https://github-readme-stats.vercel.app/api?sumeyyebuyukguclu={sumeyyebuyukguclu}
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeyyebuyukguclu&langs_count=8)](https://github.com/sumeyyebuyukguclu/github-readme-stats)
