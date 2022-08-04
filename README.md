@@ -24,7 +24,7 @@ https://github-readme-stats.vercel.app/api?sumeyyebuyukguclu={sumeyyebuyukguclu}
 
 
 
-<h1 align="center">Hi 👋, I'm Sümeyye Büyükgüçlü</h1>
+<h1 align="center">Hi there, I'm Sümeyye Büyükgüçlü 👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
