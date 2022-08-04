@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%BCmeyye-b%C3%BCy%C3%BCkg%C3%BC%C3%A7l%C3%BC-12b915238/)
