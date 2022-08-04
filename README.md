@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href=”https://www.linkedin.com/in/s%C3%BCmeyye-b%C3%BCy%C3%BCkg%C3%BC%C3%A7l%C3%BC-12b915238/"><img align=”left” src=”https://raw.githubusercontent.com/sumeyyebuyukguclu/sumeyyebuyukguclu/main/images/linkedin.svg" alt=”Sümeyye Büyükgüçlü | LinkedIn” width=”21px”/></a>
