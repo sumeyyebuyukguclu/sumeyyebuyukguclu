@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sümeyye Büyükgüçlü</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+S%C3%BCmeyye+B%C3%9CY%C3%9CKG%C3%9C%C3%87L%C3%9C)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **C, C++ **
 
