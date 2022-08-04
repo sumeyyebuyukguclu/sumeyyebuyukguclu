@@ -18,7 +18,8 @@ https://github-readme-stats.vercel.app/api?sumeyyebuyukguclu={sumeyyebuyukguclu}
 
 
 <h1 align="center">Hi 👋, I'm Sümeyye Büyükgüçlü</h1>
-- 🔭 I’m currently working on **C**
+
+- 🔭 I’m currently working on ** C **
 
 - 🌱 I’m currently learning **HTML,CSS**
 
