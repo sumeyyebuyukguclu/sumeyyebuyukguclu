@@ -1,7 +1,6 @@
 
 
-
-<img width="830" height="476" src="https://user-images.githubusercontent.com/70228600/183041023-056b364c-8ab2-44b0-bacd-e387ab86516e.gif">
+<img width="830" height="476" src="https://user-images.githubusercontent.com/70228600/183057273-10c4ef76-66cb-49ba-a0a9-b8f94dfc11e4.gif">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=75F7C6&lines=Hi%2C+I'm+S%C3%BCmeyye+B%C3%9CY%C3%9CKG%C3%9C%C3%87L%C3%9C" alt="Typing SVG"></a>
 
